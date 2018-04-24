@@ -1,0 +1,25 @@
+{
+  "name": "mongoose-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emily-kay/mongoose-intro.git"
+  },
+  "author": "Emily Kay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emily-kay/mongoose-intro/issues"
+  },
+  "homepage": "https://github.com/emily-kay/mongoose-intro#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "jquery": "^3.3.1"
+  }
+}
